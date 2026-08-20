@@ -17,5 +17,5 @@ Implement Salesforce CRM for a fictional B2B software company.
 ## Progress
 
 - [x] Day 1
-- [ ] Day 2
+- [X] Day 2
 - [ ] Day 3
